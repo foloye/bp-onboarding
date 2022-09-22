@@ -47,7 +47,7 @@ function App() {
           <span className='test-p'>Create Password</span>
         </div>
         <div  className='activate'>
-          <span>Haven't activated your account yet?</span><span className='link-a'> <a className='anchor' href='https://www.buzzfeed.com/itsmemeg/which-one-direction-boy-is-your-soulmate-1m7bjks3e2' target="_blank">Activate Now</a></span><button className='a-btn'><a className='btn-link' target="_blank" href='https://youtu.be/_kqQDCxRCzM'>Sign In</a></button>
+          <span>Haven't activated your account yet?</span><span className='link-a'> <a className='anchor' href='https://www.buzzfeed.com/itsmemeg/which-one-direction-boy-is-your-soulmate-1m7bjks3e2' >Activate Now</a></span><button className='a-btn'><a className='btn-link'  href='https://youtu.be/_kqQDCxRCzM'>Sign In</a></button>
           
         </div>
       </div>
