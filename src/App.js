@@ -48,7 +48,7 @@ function App() {
         </div>
         <div  className='activate'>
           <span>Haven't activated your account yet?</span><span className='link-a'> <a className='anchor' href='https://www.buzzfeed.com/itsmemeg/which-one-direction-boy-is-your-soulmate-1m7bjks3e2' >Activate Now</a></span><button className='a-btn'><a className='btn-link'  href='https://youtu.be/_kqQDCxRCzM'>Sign In</a></button>
-          
+          <br/>
         </div>
       </div>
     </div>
